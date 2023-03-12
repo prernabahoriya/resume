@@ -1,4 +1,4 @@
-# resume
+# Resume
 created a resume using HTML and CSS
 
 # Prena Bahoriya - Web Developer
@@ -30,3 +30,4 @@ Create a new branch for your changes
 Submit a pull request with a detailed description of your changes
  # Contact Information
 If you have any questions or would like to get in touch, you can reach me at bahoriyaprerna9@email.com
+![Screenshot (77)](https://user-images.githubusercontent.com/117772899/224546478-48f4861a-e01d-4c6c-99a7-2c6cfa0574ae.png)
