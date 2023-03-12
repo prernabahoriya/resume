@@ -10,10 +10,6 @@ This repository contains a project which I've created.
 
 Project A: A RESUME built with HTML and CSS
 
-Code Snippet A: A JavaScript function to sort an array of objects by a specific property
-Installation and Usage
-To install and use any of the projects or code snippets in this repository, follow these steps:
-
 
 # Technology Stack
 Here's a list of the programming languages, frameworks, and libraries I've worked with:
